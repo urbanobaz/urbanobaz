@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Urbano!
+## Welcome to my Github.
+
+I am a software engineer and CS instructor that loves
+- JavaScript (Especially React)
+- TypeScript
+- Python
+- HTML & CSS
+- Software Architecture
+- AWS
+- and more
+
+You can reach me at ubazdevelops@gmail.com or check out my website https://urbanobaz.com or https://urbanobaz.com/links to find me in other places.
 
 <!--
 **urbanobaz/urbanobaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
