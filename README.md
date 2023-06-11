@@ -6,6 +6,7 @@ I am a software engineer and CS instructor that loves
 - TypeScript
 - Python
 - HTML & CSS
+- C
 - Software Architecture
 - AWS
 - and more
